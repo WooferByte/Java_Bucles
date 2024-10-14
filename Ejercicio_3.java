@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class Ejercicio_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int numProductos = 0;
+        int numProductos;
 
         while (true) {
             try {

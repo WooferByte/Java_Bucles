@@ -12,7 +12,7 @@ public class Ejercicio_4 {
         double totalVentas = 0;
 
         for (int dia = 1; dia <= 7; dia++) {
-            double ventasDia = 0;
+            double ventasDia;
 
             while (true) {
                 System.out.print("Ingrese las ventas del día " + dia + ": ");
